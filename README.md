@@ -2,11 +2,19 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Software+Developer;Backend+%26+Full-Stack;Django+%7C+React+%7C+PostgreSQL;Building+Scalable+SaaS+Systems)
 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
 
 **Software Developer | Backend & Full-Stack (Django, React, PostgreSQL)**  
 Building scalable, real-world SaaS systems with a strong focus on backend clarity, performance, and maintainability.
 
 ---
+<h1 align="center">Hi, I'm Satwik 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;Backend+%26+Full-Stack;Django+%7C+React+%7C+PostgreSQL;Building+Scalable+SaaS+Systems" />
+</p>
+
 
 ## 🧠 About Me
 
@@ -18,6 +26,9 @@ I care less about trendy stacks and more about **engineering decisions that age 
 Currently, I work with **Django, Django REST Framework, React, Node.js, and PostgreSQL**, contributing to systems used by real users at a national scale.
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satwikkukadolli&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=satwikkukadolli&theme=tokyonight)
 
 ## 🛠 Tech Stack
 
@@ -41,6 +52,9 @@ Currently, I work with **Django, Django REST Framework, React, Node.js, and Post
 - Debugging & Performance Optimization
 
 ---
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 
 ## 🚀 Experience Highlights
 
