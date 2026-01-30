@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Satwik Kukadolli
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Software+Developer;Backend+%26+Full-Stack;Django+%7C+React+%7C+PostgreSQL;Building+Scalable+SaaS+Systems)
+
+
 **Software Developer | Backend & Full-Stack (Django, React, PostgreSQL)**  
 Building scalable, real-world SaaS systems with a strong focus on backend clarity, performance, and maintainability.
 
