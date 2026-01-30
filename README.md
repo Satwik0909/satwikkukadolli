@@ -1,10 +1,7 @@
 # 👋 Hi, I'm Satwik Kukadolli
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Software+Developer;Backend+%26+Full-Stack;Django+%7C+React+%7C+PostgreSQL;Building+Scalable+SaaS+Systems)<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;Backend+%26+Full-Stack;Django+%7C+React+%7C+PostgreSQL;Building+Scalable+SaaS+Systems" />
-</p>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
 
 **Software Developer | Backend & Full-Stack (Django, React, PostgreSQL)**  
